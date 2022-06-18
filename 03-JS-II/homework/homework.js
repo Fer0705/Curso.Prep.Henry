@@ -239,7 +239,7 @@ function doWhile(numero) {
 
    }while (contador < 8)
 
-   return suma
+   return suma;
 }
 
 
